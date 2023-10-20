@@ -7,7 +7,7 @@ public class HDFCAccount implements BankAccountInterface{
     private String password;
     private double balance;
     final double roi=7.1;
-    final String IFSCCode="SBI34543";
+    final String IFSCCode="HDFC34543";
 
     //default constructor
     public HDFCAccount() {

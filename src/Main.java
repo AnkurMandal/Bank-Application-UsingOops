@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        HDFCAccount ankurAcc=new HDFCAccount("Ankur","ankur@12",10000);
+        SBIAccount ankurAcc=new SBIAccount("Ankur",100000,"ankur@12");
         System.out.println(ankurAcc);
         System.out.println("\n");
 
